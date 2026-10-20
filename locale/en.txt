@@ -1,0 +1,30 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_54E661DB_5824_3735_41D1_B42FCBD9C441.label = 1 (4)
+video_492F2451_5864_1D32_41BC_B413C4CF38FD.label = WhatsApp Video 2026-10-20 at 1.22.06 PM
+panorama_552D7BE5_5824_0B12_41C6_55AA1F2398FB.label = amphiteter
+panorama_53E2AB58_5824_0B33_41D3_260208C728FD.label = east
+panorama_53E7F80A_5824_1516_41D0_F2A5DB8A0702.label = north
+panorama_53E7B3FC_5824_3AF3_41C8_6A1EDDE3368C.label = south
+
+### Video
+videolevel_4D0D8674_589F_E081_41D0_D7DADEB13789.url = media/video_492F2451_5864_1D32_41BC_B413C4CF38FD_en.mp4
+videolevel_4D0D8674_589F_E081_41D0_D7DADEB13789.posterURL = media/video_492F2451_5864_1D32_41BC_B413C4CF38FD_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_4A9DBDB9_5881_E383_41C9_3F4066CF74D1.label = TOP VIEW
+Button_4A9DBDB9_5881_E383_41C9_3F4066CF74D1_mobile.label = TOP VIEW
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 14
